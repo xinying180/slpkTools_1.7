@@ -1,5 +1,6 @@
 # slpkTools_1.7
 slpk相关工具，针对i3s 1.7版本
+
 如果Pro中直接执行Create Integrated Mesh Scene Layer Package工具报错，可以先使用Check osgb files工具，然后再使用osgbToslpk工具。
 Check osgb files工具：
 1，输入osgb文件夹路径到Data文件夹
