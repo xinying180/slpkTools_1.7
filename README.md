@@ -19,4 +19,4 @@ Optimize Slpk Size工具：
 
 tips: 
 1，以上工具针对Pro 2.5以及I3S 1.7版本
-2，如果需要使用osgbToslpk工具，则不要删除目录下的OSG文件夹
+2，如果需要使用Check osgb files工具，则不要删除目录下的OSG文件夹
