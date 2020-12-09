@@ -22,4 +22,5 @@ tips:
 2，如果需要使用Check osgb files工具，则不要删除目录下的OSG文件夹         
 
 新增工具：传统obj模型通过Import 3D files导入Pro后变暗或者纹理丢失，而Quick Import工具导入正常的问题，可以使用Optimize Obj工具。          
-Optimize Obj工具： 输入obj所在的文件夹路径即可，可以批量处理。该工具不涉及Pro版本。           
+Optimize Obj工具：        
+输入obj所在的文件夹路径即可，可以批量处理。该工具不涉及Pro版本。           
