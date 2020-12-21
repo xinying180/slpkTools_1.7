@@ -11,7 +11,8 @@ tips：该工具目前仅针对Pro 2.5版本
 二、Optimize Slpk Size工具：          
 如果需要优化3D Object以及倾斜类型的slpk的大小，可以使用Optimize Slpk Size工具，使用方法：      
 1，输入slpk所在的文件夹路径即可，支持批量执行      
-2，输出的slpk在同一文件夹下，以原始slpk名称+_tar结尾命名。     
+2，可以选择保留的纹理格式，建议都保留     
+3，输出的slpk在同一文件夹下，以原始slpk名称+_tar结尾命名。     
 
 tips: 该工具仅支持I3S 1.7版本     
 
